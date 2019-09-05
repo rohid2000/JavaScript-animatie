@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#container {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  background: darkgray;
+  margin-left: 700px;
+}
+
+#animation {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: darkblue;
+  margin-left: 150px;
+  margin-top: 30%;
+}
+
+#circle {
+    height: 100px;
+    width: 100px;
+    background: darkblue;
+    border-radius: 50%;
+    margin-left: 150px;
+}
+
+button {
+    margin-left: 860px;
+}
